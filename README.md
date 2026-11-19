@@ -206,6 +206,7 @@ Values are typical current support in stable builds. Cores and plugins change. C
 | 8    | Karing          | [karing.app](https://karing.app) / [GitHub](https://github.com/KaringX/karing)                                | Clash rules + sing-box               |
 | 9    | WireGuard       | [download.wireguard.com](https://download.wireguard.com/windows-client/)                                      | WG only                              |
 | 10   | OpenVPN Connect | [openvpn.net](https://openvpn.net/client/)                                                                    | .ovpn only                           |
+| 11   | ReClash         | [Releases](https://github.com/Hoxiee/ReClash/releases)                                                        | FlClash-based, mihomo                |
 
 Need Visual C++ runtimes if a Qt or C++ GUI fails to start. Download runtimes from Microsoft, not from a "DLL pack" site.
 
@@ -227,6 +228,7 @@ Need Visual C++ runtimes if a Qt or C++ GUI fails to start. Download runtimes fr
 | 12   | OpenVPN for Android    | [GitHub](https://github.com/schwabe/ics-openvpn)                                                                                 | FOSS .ovpn                              |
 | 13   | Amnezia                | [amnezia.org](https://amnezia.org)                                                                                               | Self-host stack                         |
 | 14   | Mobile SSH             | [Play](https://play.google.com/store/apps/details?id=io.github.mobile_ssh)                                                       | Own servers/profiles: WireGuard, Shadowsocks, OpenVPN; SSH VPN carries TCP/DNS only |
+| 15   | ReClash                | [GitHub](https://github.com/Hoxiee/ReClash/releases)                                                                             | FlClash-based, mihomo                   |
 
 Prefer GitHub Releases or Google Play. Avoid third-party APK mirrors.
 
@@ -265,6 +267,7 @@ This list will not tell you how to skip an App Store payment. That is theft of t
 | Throne          | [Releases](https://github.com/throneproj/Throne/releases)                                                                               | Qt                      |
 | Clash Party     | [GitHub](https://github.com/mihomo-party-org/clash-party)                                                                               | Electron                |
 | FlClash         | [GitHub](https://github.com/chen08209/FlClash)                                                                                          | Flutter                 |
+| ReClash         | [Releases](https://github.com/Hoxiee/ReClash/releases)                                                                                  | FlClash-based, mihomo   |
 | Tunnelblick     | [tunnelblick.net](https://tunnelblick.net/)                                                                                             | OpenVPN                 |
 | WireGuard       | Mac App Store                                                                                                                           | Official                |
 | Outline         | [getoutline.org](https://getoutline.org/)                                                                                               | SS / Outline            |
@@ -280,6 +283,7 @@ This list will not tell you how to skip an App Store payment. That is theft of t
 | Throne          | [Releases](https://github.com/throneproj/Throne/releases)                                             | Qt, TUN                                  |
 | Karing          | [GitHub](https://github.com/KaringX/karing/releases)                                                  | glibc version matters                    |
 | FlClash         | [GitHub](https://github.com/chen08209/FlClash/releases)                                               | Flutter                                  |
+| ReClash         | [Releases](https://github.com/Hoxiee/ReClash/releases)                                                | FlClash-based, mihomo                    |
 | sing-box        | [GitHub](https://github.com/SagerNet/sing-box/releases)                                               | CLI + service                            |
 | mihomo          | [GitHub](https://github.com/MetaCubeX/mihomo)                                                         | Clash Meta core, pair with a GUI or REST |
 | WireGuard       | distro package `wireguard-tools`                                                                      | `wg-quick`                               |
